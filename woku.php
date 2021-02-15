@@ -123,7 +123,7 @@ if (empty($_SESSION['csrf_token'])) {
    
    	<div id="display_comment"></div>
     <div class="jumbotron text-center bg-secondary" style="margin-top:30; margin-bottom: 0px; font-family: cursive;">
-        <p>&copy Copyright Selpa Rizqi</p>
+        <p>@Copyright by 18111154_SelpaRizqi_TIFRPCNS18A_UASWEB1</p>
       </div>
       <script src="js/jquery.min.js"></script>
       <script>
